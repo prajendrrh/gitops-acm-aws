@@ -4,12 +4,12 @@ metadata:
   annotations:
     helm.sh/hook-weight: "360"
   name: {{ .Values.cluster.name }}
-  namespace: {{ .Values.cluster.name }}
+  namespace: {{ .Values.cluster.name }} 
 spec:
   clusterName: {{ .Values.cluster.name }}
-  clusterNamespace: {{ .Values.cluster.name }}
+  clusterNamespace: {{ .Values.cluster.name }} 
   clusterLabels:
-    cloud: vSphere
+    cloud: Amazon
     vendor: OpenShift
   applicationManager:
     enabled: true

@@ -1,0 +1,7 @@
+cluster:
+  name: pro
+  domain: sandbox744.opentlc.com
+  fqdn: pro.sandbox744.opentlc.com
+  address: "https://kubernetes.default.svc"
+  environment: pro
+  cloud: aws

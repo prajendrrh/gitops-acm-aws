@@ -1,0 +1,8 @@
+cluster:
+  name: dev
+  fqdn: dev.sandbox744.opentlc.com
+  baseDomain: sandbox744.opentlc.com
+  environment: dev
+  cloud: vmware
+  type: aws
+  imageName: img4.14.12-multi-appsub

@@ -1,0 +1,8 @@
+cluster:
+  name: pre
+  fqdn: pre.sandbox744.opentlc.com
+  baseDomain: sandbox744.opentlc.com
+  environment: pre
+  cloud: aws
+  type: aws
+  imageName: img4.14.12-multi-appsub

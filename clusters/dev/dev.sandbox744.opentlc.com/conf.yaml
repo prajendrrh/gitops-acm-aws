@@ -1,0 +1,7 @@
+cluster:
+  name: dev
+  domain: sandbox744.opentlc.com
+  fqdn: dev.sandbox744.opentlc.com
+  address: "https://kubernetes.default.svc"
+  environment: dev
+  cloud: aws
