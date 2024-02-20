@@ -7,3 +7,5 @@ workers:
 provider:
     sshPrivatekey:
     sshPublickey: 
+    access:
+    secret: 
