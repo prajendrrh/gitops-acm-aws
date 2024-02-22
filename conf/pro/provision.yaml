@@ -2,10 +2,10 @@ masters:
     count: 3 
 
 workers:
-    count: 3
+    count: 1
 
-provider:
-    sshPrivatekey:
-    sshPublickey: 
-    access:
-    secret:
+#provider:
+#    sshPrivatekey:
+#    shPublickey: 
+#    access:
+#    secret: 

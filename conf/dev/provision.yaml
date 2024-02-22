@@ -4,8 +4,8 @@ masters:
 workers:
     count: 1
 
-provider:
-    sshPrivatekey:
-    sshPublickey: 
-    access:
-    secret: 
+#provider:
+#    sshPrivatekey:
+#    shPublickey: 
+#    access:
+#    secret: 
